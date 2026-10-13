@@ -1,9 +1,7 @@
 const CONFIG = {
     companyName: "Sakshi Market",
     tagline: "Steel & ERW Pipe Supplier – PAN India",
-    city: "Pune, Maharashtra",
-    establishedYear: "2025",
-    experienceYears: "1 year",
+    city: "India",
     clientsCount: "300+",
     tonsSupplied: "15,000 MT",
     gstNo: "27ISIPS7035D1ZD",

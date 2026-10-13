@@ -1,6 +1,6 @@
 # Sakshi Market - Production-Ready Steel & ERW Pipe Supplier Website
 
-This repository contains the production static web application for **Sakshi Market** (Steel & ERW Pipe Supplier – PAN India), based in Pune, Maharashtra.
+This repository contains the production static web application for **Sakshi Market** (Steel & ERW Pipe Supplier – PAN India), based in India.
 
 ---
 
@@ -8,8 +8,6 @@ This repository contains the production static web application for **Sakshi Mark
 
 - **Company Name:** Sakshi Market
 - **Tagline:** Steel & ERW Pipe Supplier – PAN India
-- **Established Year:** 2025
-- **Experience:** 1 year
 - **Clients Count:** 300+
 - **Tons Supplied:** 15,000 MT
 - **GSTIN:** 27ISIPS7035D1ZD (State Code: 27 - Maharashtra)
